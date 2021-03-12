@@ -1,0 +1,22 @@
+{
+  "name": "first-project-store-1",
+  "version": "1.0.0",
+  "description": "First Store using youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bamonay/First-Project-Store-1.git"
+  },
+  "author": "Apichai Jamie Singbubpha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bamonay/First-Project-Store-1/issues"
+  },
+  "homepage": "https://github.com/Bamonay/First-Project-Store-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
